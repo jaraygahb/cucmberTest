@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="10" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="162285" started-at="2022-02-23T08:32:35Z" finished-at="2022-02-23T08:35:17Z">
+    <groups>
+      <group name="cucumber scenarios">
+        <method signature="TestRunner.scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" name="scenario" class="org.com.runner.TestRunner"/>
+      </group> <!-- cucumber scenarios -->
+    </groups>
+    <test name="Test" duration-ms="162285" started-at="2022-02-23T08:32:35Z" finished-at="2022-02-23T08:35:17Z">
+      <class name="org.com.runner.TestRunner">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeClass" is-config="true" duration-ms="1162" started-at="2022-02-23T14:02:35Z" finished-at="2022-02-23T14:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="15892" started-at="2022-02-23T14:02:36Z" data-provider="scenarios" finished-at="2022-02-23T14:02:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC01-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-23T14:02:36Z" finished-at="2022-02-23T14:02:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@44da7eb3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="4" started-at="2022-02-23T14:02:52Z" finished-at="2022-02-23T14:02:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5e69cf07]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="13750" started-at="2022-02-23T14:02:52Z" data-provider="scenarios" finished-at="2022-02-23T14:03:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC01-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-23T14:03:06Z" finished-at="2022-02-23T14:03:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3d512652]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="12891" started-at="2022-02-23T14:03:06Z" data-provider="scenarios" finished-at="2022-02-23T14:03:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC01-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-23T14:03:19Z" finished-at="2022-02-23T14:03:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2c2e3460]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="14532" started-at="2022-02-23T14:03:19Z" data-provider="scenarios" finished-at="2022-02-23T14:03:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC01-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="15281" started-at="2022-02-23T14:03:33Z" data-provider="scenarios" finished-at="2022-02-23T14:03:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC01-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-23T14:03:33Z" finished-at="2022-02-23T14:03:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3b96f8b0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="47081" started-at="2022-02-23T14:03:49Z" data-provider="scenarios" finished-at="2022-02-23T14:04:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC03-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at org.com.step.AccessibilityTesting_Step.findPassedItems(AccessibilityTesting_Step.java:36)
+	at ✽.find and print the number of passed items at "SomeotherSites1"(file:///F:/SiteOne/AccessibilityTest/src/main/resources/featureFiles/AccessibilityTesting.feature:37)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-23T14:03:49Z" finished-at="2022-02-23T14:03:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2b170932]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-23T14:04:36Z" finished-at="2022-02-23T14:04:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1fc0d9b4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="11018" started-at="2022-02-23T14:04:36Z" data-provider="scenarios" finished-at="2022-02-23T14:04:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC03-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="9093" started-at="2022-02-23T14:04:47Z" data-provider="scenarios" finished-at="2022-02-23T14:04:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC03-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-23T14:04:47Z" finished-at="2022-02-23T14:04:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@42107318]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-23T14:04:56Z" finished-at="2022-02-23T14:04:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4e4f4092]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="10251" started-at="2022-02-23T14:04:56Z" data-provider="scenarios" finished-at="2022-02-23T14:05:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC03-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-23T14:05:06Z" finished-at="2022-02-23T14:05:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.com.runner.TestRunner.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper) throws java.lang.Throwable]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5d829ef0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="scenario" duration-ms="11102" started-at="2022-02-23T14:05:06Z" data-provider="scenarios" finished-at="2022-02-23T14:05:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC03-PrintResultsOfWebContentAccessibilityGuidelines"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Accessibility Tests]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.com.runner.TestRunner@2d554825]" test-instance-name="&quot;TC03-PrintResultsOfWebContentAccessibilityGuidelines&quot;" name="tearDown" is-config="true" duration-ms="170" started-at="2022-02-23T14:05:17Z" finished-at="2022-02-23T14:05:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.com.runner.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

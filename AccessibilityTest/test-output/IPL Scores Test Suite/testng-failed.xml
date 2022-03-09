@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [IPL Scores Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.com.runner.TestRunner">
+        <methods>
+          <include name="initialize"/>
+          <include name="TeardownTest"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- org.com.runner.TestRunner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [IPL Scores Test Suite] -->
